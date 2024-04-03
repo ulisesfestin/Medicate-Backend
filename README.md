@@ -1,13 +1,13 @@
 # Medicate-Backend (English)
 # Description
-Medicate is a mobile application designed to help seniors manage their medication effectively and without forgetting. With Medicate, users can easily record their medications, set personalized reminders, and receive timely notifications to take their doses at the right time. Whether the user manages their own medication or a family member does it for them, Medicate makes it easy to monitor treatment adherence. With an intuitive interface and compliance tracking features, Medicate helps promote better health and well-being for seniors.
+Medicate is a mobile application designed to help the elderly people manage their medication effectively and without forgetting. With Medicate, users can easily record their medications, set personalized reminders, and receive timely notifications to take their doses at the right time. Whether the user manages their own medication or a family member does it for them, Medicate makes it easy to monitor treatment adherence. With an intuitive interface and compliance tracking features, Medicate helps promote better health and well-being for the elderly people.
 
 # Target audience
 Elderly people and/or close family members.
 
 # Features
 User Registration:
-- Allow users (seniors) to register in the application.
+- Allow users (the elderly people) to register in the application.
 - In case the user has technological difficulties, allow a close family member to register on their behalf and manage the application for them.
 - Establish a "Family Core" where close family members can assist in medication management and receive notifications on medication compliance.
 
@@ -30,7 +30,7 @@ Communication with Health Professionals:
 - Integrate the option to send treatment compliance reports to healthcare professionals, such as physicians or caregivers, so that they are aware of the patient's progress and can intervene if necessary.
 
 # Conclusion
-This application would provide a comprehensive solution to help seniors manage their medication effectively, thus improving their quality of life and reducing the risk of health-related complications.
+This application would provide a comprehensive solution to help the elderly people manage their medication effectively, thus improving their quality of life and reducing the risk of health-related complications.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
