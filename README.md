@@ -27,7 +27,7 @@ Compliance Log:
 - Alerts for the user and/or family in case a dose is missed or an error occurs in the administration of the medication.
 
 Communication with the primary care physician:
-- Integrate the option to send treatment compliance reports to the physician, so that they are informed about the patient's progress and can intervene if necessary.
+- Integrate the option to send treatment compliance reports to the physician, so that he/she is informed about the patient's progress and can intervene if necessary.
 
 # Conclusion
 This application would provide a comprehensive solution to help the elderly people manage their medication effectively, thus improving their quality of life and reducing the risk of health-related complications.
@@ -63,7 +63,7 @@ Registro de cumplimiento:
 - Alertas para el usuario y/o la familia en caso de que se olvide una dosis o se produzca un error en la administración de la medicación.
 
 Comunicación con el médico de cabecera:
-- Integrar la opción de enviar informes de cumplimiento del tratamiento al médico, para que esté informado acerca de la evolución del paciente y puedan intervenir en caso de ser necesario.
+- Integrar la opción de enviar informes de cumplimiento del tratamiento al médico, para que esté informado acerca de la evolución del paciente y pueda intervenir en caso de ser necesario.
 
 # Conclusión
 Esta aplicación proporcionaría una solución integral para ayudar a las personas mayores a gestionar su medicación de forma eficaz, mejorando así su calidad de vida y reduciendo el riesgo de complicaciones relacionadas con la salud.
