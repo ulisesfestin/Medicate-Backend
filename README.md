@@ -9,7 +9,7 @@ Elderly people and/or close family members.
 User Registration:
 - Allow users (the elderly people) to register in the application.
 - In case the user has technological difficulties, allow a close family member to register on their behalf and manage the application for them.
-- Establish a "Family Core" where close family members can assist in medication management and receive notifications on medication compliance.
+- Establish a "Family Core" where close family members can assist in medication management and receive notifications.
 
 Medication Record:
 - Allow the user or close family member to record medication details, including medication type, name, dosage, frequency of administration and duration of treatment.
@@ -26,8 +26,8 @@ Compliance Log:
 - Keep a record of medication compliance, showing statistics and graphs indicating adherence to treatment over time.
 - Alerts for the user and/or family in case a dose is missed or an error occurs in the administration of the medication.
 
-Communication with Health Professionals:
-- Integrate the option to send treatment compliance reports to healthcare professionals, such as physicians or caregivers, so that they are aware of the patient's progress and can intervene if necessary.
+Communication with the primary care physician:
+- Integrate the option to send treatment compliance reports to the physician, so that they are informed about the patient's progress and can intervene if necessary.
 
 # Conclusion
 This application would provide a comprehensive solution to help the elderly people manage their medication effectively, thus improving their quality of life and reducing the risk of health-related complications.
@@ -45,7 +45,7 @@ Personas mayores y/o familiares cercanos.
 Registro de usuarios:
 - Permitir a los usuarios (personas mayores) registrarse en la aplicación.
 - En caso de que el usuario tenga dificultades tecnológicas, permitir que un familiar cercano se registre en su nombre y gestione la aplicación por él.
-- Establecer un "Núcleo Familiar" donde los familiares cercanos puedan ayudar en la gestión de la medicación y recibir notificaciones sobre el cumplimiento de la medicación.
+- Establecer un "Núcleo Familiar" donde los familiares cercanos puedan ayudar en la gestión de la medicación y recibir notificaciones.
 
 Registro de medicación:
 - Permitir al usuario o a un familiar cercano registrar los detalles de la medicación, incluido el tipo de medicamento, el nombre, la dosis, la frecuencia de administración y la duración del tratamiento.
@@ -62,8 +62,8 @@ Registro de cumplimiento:
 - Lleva un registro del cumplimiento de la medicación, mostrando estadísticas y gráficos que indican la adherencia al tratamiento a lo largo del tiempo.
 - Alertas para el usuario y/o la familia en caso de que se olvide una dosis o se produzca un error en la administración de la medicación.
 
-Comunicación con los profesionales sanitarios:
-- Integrar la opción de enviar informes de cumplimiento del tratamiento a los profesionales sanitarios, como médicos o cuidadores, para que estén al tanto de la evolución del paciente y puedan intervenir en caso necesario.
+Comunicación con el médico de cabecera:
+- Integrar la opción de enviar informes de cumplimiento del tratamiento al médico, para que esté informado acerca de la evolución del paciente y puedan intervenir en caso de ser necesario.
 
 # Conclusión
 Esta aplicación proporcionaría una solución integral para ayudar a las personas mayores a gestionar su medicación de forma eficaz, mejorando así su calidad de vida y reduciendo el riesgo de complicaciones relacionadas con la salud.
